@@ -1,6 +1,9 @@
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/J0a00liveira/beer-calculator" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/J0a00liveira/beer-calculator" />
+[![🍺  - Go Drink](https://img.shields.io/badge/🍺_-Go_Drink-2ea44f)](https://)
+
 # 🍺 Beer Calculator API
 
-API para cálculo comparativo de preços de cerveja com base em quantidade e volume, aplicando **boas práticas de arquitetura em camadas**, **Domain-Driven Design (DDD)** e **Strategy Pattern**.
+API básica para cálculo comparativo de preços de cerveja com base em quantidade e volume, aplicando **boas práticas de arquitetura em camadas**, **Domain-Driven Design (DDD)** e **Strategy Pattern**.
 
 Este projeto foi criado com foco em **clareza arquitetural**, **baixo acoplamento** e **facilidade de evolução**, servindo tanto como estudo quanto como material de portfólio.
 
@@ -155,7 +158,7 @@ Exemplos futuros:
 {
   "totalPrice": 45,
   "totalVolume": 2100,
-  "pricePerMl": 0.021429,
+  "pricePerMl": 0.02,
   "pricePerL": 21.43
 }
 ```
